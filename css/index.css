@@ -1,0 +1,151 @@
+body{
+    background-color: darkgray;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+    width: auto;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+header{
+    background-color: black;
+    scroll-behavior: unset;
+    border-radius: 10px;
+}
+.logo{
+    height: 7%;
+    width: 7%;
+    border-radius: 65%;
+    border: solid black;
+}
+.h1{
+    font-size: 150%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    margin-left: 8.8%;
+    margin-top: -5.5%;
+}
+.icons{
+    margin-top: -3.5%;
+    margin-left: 86%;
+}
+.icon{
+    margin: 6.5%;
+    height: 1.3em;
+    width: 1.3em;
+    transition: .5s;
+    border-radius: 60%;
+    border: solid white;
+}
+.icon:hover{
+    transform: scale(1.1);
+}
+.search{
+    margin-left: 25%;
+    margin-top: 3%;
+}
+.input{
+    height: 3em;
+    width: 65%;
+    border-radius: 20px;
+    border: solid black;
+    text-align: center;
+}
+.searches{
+    margin-left: 60.5%;
+    margin-top: -2em;
+
+}
+.search-img{
+    height: 1.6em;
+    width: 5.5%;
+}
+.h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 14%;
+    margin-top: 2%;
+}
+.filter{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 72%;
+    margin-top: -3%;
+}
+select{
+    width: 9%;
+}
+.package{
+    margin-top: 2%;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    align-content: center;
+}
+.wrap{
+    display: flex;
+
+}
+.item{
+    background-color: whitesmoke;
+    border-radius: 13px;
+    border: solid black;
+    width: 26%;
+    margin: 2%;
+    display: inline;
+}
+.product-name{
+    text-align: center;
+    font-size: 150%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.img{
+    width: 99%;
+    height: 36ex;
+    border-radius: 10px;
+    border: solid black;
+}
+.button{
+    width: 46%;
+    background-color: black;
+    color: white;
+    margin-left: 30%;
+    border-radius: 10px;
+    text-align: center;
+    transition: .5s;
+}
+.button:hover{
+    transform: scale(1.2);
+    color: black;
+    background-color: whitesmoke;
+}
+.view-more{
+    font-size: 70%;
+    margin-top: 15%;
+    margin-left: -0.8%;
+}
+footer{
+    background-color: black;
+    border-radius: 10px;
+    width: auto;
+}
+.About{
+    display: inline;
+    margin-left: 28%;
+}
+.h3{
+    color: white;
+    margin: 4%;
+    text-align: center;
+}
+.media{
+    display: inline;
+    margin-left: 38%;
+}
+.media-img{
+    height: 20px;
+    width: 20px;
+    margin: 2%;
+}
+
+
+
